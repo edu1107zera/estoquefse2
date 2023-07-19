@@ -1,0 +1,17 @@
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\bin\Debug\net7.0-windows\Aula08Estoque.exe
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\bin\Debug\net7.0-windows\Aula08Estoque.deps.json
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\bin\Debug\net7.0-windows\Aula08Estoque.runtimeconfig.json
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\bin\Debug\net7.0-windows\Aula08Estoque.dll
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\bin\Debug\net7.0-windows\Aula08Estoque.pdb
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.csproj.AssemblyReference.cache
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.Form1.resources
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.csproj.GenerateResource.cache
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.AssemblyInfoInputs.cache
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.AssemblyInfo.cs
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.dll
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\refint\Aula08Estoque.dll
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.pdb
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\Aula08Estoque.genruntimeconfig.cache
+C:\Users\eduardo.lfuzato\source\Eduardo.l\Aula08Estoque\Aula08Estoque\obj\Debug\net7.0-windows\ref\Aula08Estoque.dll
